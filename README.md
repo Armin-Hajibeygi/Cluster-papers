@@ -60,8 +60,6 @@ This project helps researchers organize their PDF papers by:
 - `cluster_papers.py`: Uses GPT to identify themes and assign papers to clusters
 - `create_folders.py`: Creates folders and moves papers based on clustering results
 - `user_interface.py`: Main script that orchestrates the entire process
-- `paper_folder_mapping.json`: Generated mapping of papers to their assigned folders
-- `results.txt`: Extracted abstracts from papers
 
 ## Customization
 
