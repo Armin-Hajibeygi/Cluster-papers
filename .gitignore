@@ -1,0 +1,5 @@
+__pycache__
+env
+.env
+results.txt
+paper_folder_mapping.json
